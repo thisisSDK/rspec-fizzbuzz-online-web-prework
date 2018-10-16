@@ -8,7 +8,7 @@ def fizzbuzz
   if int % 5 == 0 
     "Buzz"
   end  
-  if int % 5 || 3 = 0 
+  if int % 5 || 3 == 0 
     "Fizzbuzz"
   end
 end
